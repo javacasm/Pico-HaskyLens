@@ -1,12 +1,12 @@
 # HuskyLens y Raspberry Pi Pico
 
-Vamos a controlar las HuskLens desde un Raspberry Pi Pico usando micropython.
+Vamos a controlar las [HuskyLens](https://www.dfrobot.com/product-1922.html) desde un [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) usando [MicroPython](https://micropython.org/).
 
 Suponemos que...
 1. Tenemos actualizada el firmware de la HuskyLens 
-2. La Pico tiene instalado su firmware de micropython .
+2. La Pico tiene instalado su firmware de MicroPython .
 3. Tenemos instalado en el PC el entorno de programación de python [Thonny](https://thonny.org)
-
+raspberry
 Ahora vamos con la conexión del montaje
 
 1. Conectamos la Raspberry Pi Pico con las HuskyLens, con la Pico apagada, siguiendo el esquema y utilizando los cables que incluyen las HuskyLens (hemos utilizado los colores de los cables de nuestras HuskyLens)
