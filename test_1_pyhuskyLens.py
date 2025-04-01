@@ -1,3 +1,6 @@
+# Ejemplo de uso de las HuskyLens desde la Pico usando micropython
+# basado en el repositorio https://github.com/antonvh/PyHuskyLens/ de antonvh
+# Adaptado por javacasm
 
 from pyhuskylens import *
 from machine import  Pin

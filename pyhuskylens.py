@@ -1,3 +1,6 @@
+# módulo para usar las HuskyLens desde la Pico usando micropython
+# basado en el repositorio https://github.com/antonvh/PyHuskyLens/ de antonvh
+
 import struct
 import time
 from micropython import const
