@@ -6,10 +6,10 @@ Suponemos que...
 1. Tenemos actualizada el firmware de la HuskyLens 
 2. La Pico tiene instalado su firmware de MicroPython .
 3. Tenemos instalado en el PC el entorno de programación de python [Thonny](https://thonny.org)
-raspberry
+
 Ahora vamos con la conexión del montaje
 
-1. Conectamos la Raspberry Pi Pico con las HuskyLens, con la Pico apagada, siguiendo el esquema y utilizando los cables que incluyen las HuskyLens (hemos utilizado los colores de los cables de nuestras HuskyLens)
+1. Conectamos la Raspberry Pi Pico con las HuskyLens, ambas apagadas, siguiendo el esquema y utilizando los cables que incluyen las HuskyLens (hemos utilizado los colores de los cables de nuestras HuskyLens). Las HuskyLens no estarán conectadas al USB, se alimentan desde la Pico
 
 ![Pico-Husky](./images/Pico-Husky.png)
 
@@ -19,6 +19,9 @@ Ahora vamos con la conexión del montaje
 | GND       | GND               |
 | SDA       | GPIO6 (SDA)       |
 | SCL       | GPIO7 (SCL)       |
+
+![](images/Esquema_montaje_huskyLens_Pico.png)
+
 2. Conectamos el cable USB de la Pico a tu PC.
 
 Si todo ha ido bien las HuskyLens se encenderán. Ahora vamos a memorizar la cara que queremos reconocer. 
