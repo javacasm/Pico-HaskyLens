@@ -30,6 +30,7 @@ def reconoce_cosas(algoritmo,nombre_cosa):
 
     while True:
         cosas = hl.get_blocks()
+        hl.clear_text() # borramos la pantalla
         if len(cosas) > 0: # se ha detectado al menos 1 cosa
             hl.clear_text()
             for cosa in cosas: 
@@ -44,6 +45,7 @@ def reconoce_cosas(algoritmo,nombre_cosa):
                 hl.show_text(mensaje, position=(cosa.x,cosa.y)) # mostramos en la cámara la información
         else:
             led.off() # Apagamos el led porque no detectamos nada
+            
 
 
 reconoce_caras()  # ejecutamos el algoritmo de reconocimiento de caras
