@@ -8,11 +8,11 @@ El objetivo de este tutorial es aprender a controlar una cámara [HuskyLens](htt
 En la imagen se ven varias caras reconocidas y con datos aportados por la Pico, como su ID  la posición (x,y) donde se detectan.
 
 Para realizar este tutorial suponemos que...
-1. Tenemos actualizada el firmware de la HuskyLens.
+1. Tenemos actualizado el firmware de la HuskyLens.
 2. La Pico tiene instalado su firmware de MicroPython .
 3. Tenemos instalado en el PC el entorno de programación de Python [Thonny](https://thonny.org)
 
-Ahora vamos con la conexión del montaje, recordando que ambos equipos tanto la Pico como las cámara HuskyLens, han de estar apagada y sin conexión alguna al PC. Las HuskyLens no estarán conectadas al USB, se alimentan desde la Pico.
+Ahora vamos con la conexión del montaje, recordando que ambos equipos tanto la Pico como las cámara HuskyLens, han de estar apagadas y sin conexión alguna al PC. Las HuskyLens no estarán conectadas al USB, se alimentan desde la Pico.
 
 1. Conectamos la Raspberry Pi Pico con las HuskyLens, utilizando el cable incluido, un extremo en el conector Grove de la HuskyLens y el otro , siguiendo el esquema (hemos utilizado los colores de los cables de nuestras HuskyLens). 
 
@@ -63,7 +63,7 @@ Ahora vamos con la programación:
 10. En la HuskyLens aparecerá el mensaje "Hola, soy la Pico" durante unos segundos
 ![](images/Hola_soy_Pico.png)
 
-11. Cuando reconozca una cara se encenderá el LED de la placa, y como vemos en la imagen al reconocer una cara se muestra tambien la etiqueta asociada y las coordenadas (x,y) donde se detecta
+11. Cuando reconozca una cara se encenderá el LED de la placa, y como vemos en la imagen al reconocer una cara se muestra también la etiqueta asociada y las coordenadas (x,y) donde se detecta
 ![](images/caras_reconocidas.png)
 ## Reconocimientos
 
