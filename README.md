@@ -67,7 +67,8 @@ Ahora vamos con la programación:
 ![](images/caras_reconocidas.png)
 ## Reconocimientos
 
-Módulo y ejemplos basados en [este repositorio](https://github.com/antonvh/PyHuskyLens/)
-[Documentación de HuskyLens](https://learn.dfrobot.com/makelog-308564.html)
-[Machine Vision with HuskyLens](https://dronebotworkshop.com/huskylens/) y su [vídeo](https://youtu.be/E140gPLPz4A) by Will de DroneBot Workshop
-[Github de HuskyLens](https://github.com/HuskyLens)
+* Módulo y ejemplos basados en [este repositorio](https://github.com/antonvh/PyHuskyLens/)
+* [Documentación de HuskyLens](https://learn.dfrobot.com/makelog-308564.html)
+* [Machine Vision with HuskyLens](https://dronebotworkshop.com/huskylens/) y su [vídeo](https://youtu.be/E140gPLPz4A) by Will de DroneBot Workshop
+* [Github de HuskyLens](https://github.com/HuskyLens)
+  
