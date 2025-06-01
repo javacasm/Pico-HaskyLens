@@ -7,6 +7,7 @@ El objetivo de este tutorial es aprender a controlar una cámara [HuskyLens](htt
 ![](images/Husky_multiples_caras.png)
 En la imagen se ven varias caras reconocidas y con datos aportados por la Pico, como su ID  la posición (x,y) donde se detectan.
 
+
 Para realizar este tutorial suponemos que...
 1. Tenemos actualizado el firmware de la HuskyLens.
 2. La Pico tiene instalado su firmware de MicroPython .
