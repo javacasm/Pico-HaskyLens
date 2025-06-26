@@ -66,6 +66,11 @@ Ahora vamos con la programación:
 
 11. Cuando reconozca una cara se encenderá el LED de la placa, y como vemos en la imagen al reconocer una cara se muestra también la etiqueta asociada y las coordenadas (x,y) donde se detecta
 ![](images/caras_reconocidas.png)
+
+## Proyectos
+
+[Telefonillo IA: Un proyecto sencillo con micro:bit y la cámara Huskylens programado con MakeCode](https://blog.elcacharreo.com/2025/06/24/telefonillo-ia-un-proyecto-sencillo-con-microbit-y-la-camara-huskylens-programado-con-makecode/) by @javacasm
+
 ## Reconocimientos
 
 * Módulo y ejemplos basados en [este repositorio](https://github.com/antonvh/PyHuskyLens/)
